@@ -1,0 +1,14 @@
+.knewave-regular {
+  font-family: "Knewave", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+body {
+    font-family: Knewave;
+    text-align: center;
+    background-color: rgb(168, 233, 168);
+    color:rgb(133, 78, 206);
+}
+a {
+    color:rgb(255, 2, 120);
+}
