@@ -1,12 +1,12 @@
-.knewave-regular {
-  font-family: "Knewave", system-ui;
+.eagle-lake-regular {
+  font-family: "Eagle Lake", serif;
   font-weight: 400;
   font-style: normal;
 }
 body {
-    font-family: Knewave;
+    font-family: Eagle Lake;
     text-align: center;
-    background-color: rgb(168, 233, 168);
+    background-image: url("https://i.pinimg.com/originals/69/ec/72/69ec726dec99e6e2e936b1c0e6f38c7b.gif");
     color:rgb(133, 78, 206);
 }
 a {
@@ -26,4 +26,3 @@ img {
     75%{transform:translateY(100px);}
     100%{transform:translateX(-150px);}
 }
-
