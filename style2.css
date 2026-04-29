@@ -26,3 +26,14 @@ img {
     75%{transform:translateY(100px);}
     100%{transform:translateX(-150px);}
 }
+@keyframes movelikeastrangecrab {
+    0%{transform:translateX(-150px);}
+    25%{transform:translateY(-100px);}
+    50%{transform:translateX(150px);}
+    75%{transform:translateY(-100px);}
+    100%{transform:translateX(-150px);}
+}
+.potato2thesequel{
+    width: 200px;
+    animation: movelikeastrangecrab 3s ease-in-out infinite alternate;
+}

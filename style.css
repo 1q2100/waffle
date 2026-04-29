@@ -17,10 +17,10 @@ img {
 }
 .potato{
     width: 200px;
-    animation: movelikeacrab 3s ease-in-out infinite alternate;
+    animation: e 3s ease-in-out infinite alternate;
 }
-@keyframes movelikeacrab {
-    0%{transform:translateX(-150px);}
+@keyframes e {
+    0%{rotate:initial(180);}
     25%{transform:translateY(100px);}
     50%{transform:translateX(150px);}
     75%{transform:translateY(100px);}
